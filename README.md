@@ -1,2 +1,2 @@
 # myfirstproject
-This is developed on MS visual stdio 2010
+This demo project developed upon Microsoft visual stdio 2010
